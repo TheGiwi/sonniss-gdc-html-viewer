@@ -1,4 +1,4 @@
-# sonniss-gdc-html-viewer
+# Sonniss GDC HTML Viewer
 An HTML viewer I built for browsing through and listening to my collection of the Sonniss GDC audio archive
 
 The viewer shows the audio file name and the folder it is contained in.
@@ -21,3 +21,5 @@ Don't forget to change the _path_ variable on the Python file to your own parent
 
 The text files named _wav_file_log.txt  and _found_duplicates.txt are the complete list of the Sonniss GDC sound library and a list of which files
 occur more than once in the entire collection respectively.
+
+The entire Sonniss GDC audio collection which is around 231 GB with over 7 thousand .wav files can be downloaded here: https://sonniss.com/gameaudiogdc/
