@@ -9,7 +9,7 @@ You can then paste that to your file explorer or the explorer of the app you are
 
 To make the viewer work, place the css, js and html files in the parent folder that contains the Sonniss GDC library.
 
-![Image 2](fig1.jpg "How to arrange")
+![Image 2](fig1.png "How to arrange")
 
 To make the paths to the folders work on your system do a _find and replace_ in your text editor by opening the HTML file and finding "$" character then
 replacing it with the path to the parent folder that contains all the main folders of the GDC audio library.
