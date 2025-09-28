@@ -1,4 +1,5 @@
 # Sonniss GDC HTML Viewer
+
 An HTML viewer I built for browsing through and listening to my collection of the Sonniss GDC audio archive
 
 The viewer shows the audio file name and the folder it is contained in.
@@ -23,3 +24,5 @@ The text files named _wav_file_log.txt  and _found_duplicates.txt are the comple
 occur more than once in the entire collection respectively.
 
 The entire Sonniss GDC audio collection which is around 231 GB with over 7 thousand .wav files can be downloaded here: https://sonniss.com/gameaudiogdc/
+
+Basic walkthrough: YOUTUBE LINK TBA
