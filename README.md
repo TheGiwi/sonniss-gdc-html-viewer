@@ -25,4 +25,4 @@ occur more than once in the entire collection respectively.
 
 The entire Sonniss GDC audio collection which is around 231 GB with over 7 thousand .wav files can be downloaded here: https://sonniss.com/gameaudiogdc/
 
-Basic walkthrough: [YOUTUBE LINK](https://youtu.be/ekVJAU43EJk)
+Basic walkthrough: https://youtu.be/ekVJAU43EJk
